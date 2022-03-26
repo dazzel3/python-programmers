@@ -14,3 +14,12 @@
 -  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) ... <code>CanNotFinish.py</code>
 -  [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) ... <code>KthNum.py</code>
 -  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) ... <code>MockTest.py</code>
+-  [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) ... <code>PinStar.py</code>
+-  [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) ... <code>SumMatrix.py</code>
+-  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) ... <code>Remainer.py</code>
+-  [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) ... <code>Lottos.py</code>
+-  [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) ... <code>MinimumRectangle.py</code>
+-  [[1차]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) ... <code>SecretMap.py</code>
+-  [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) ... <code>Average.py</code>
+-  [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) ... <code>SumDigits.py</code>
+-  [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) ... <code>HateSameNum.py</code>
