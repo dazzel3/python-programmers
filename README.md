@@ -15,6 +15,7 @@
 -  [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) ... `KthNum.py`
 -  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) ... `MockTest.py`
 -  [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) ... `PinStar.py`
+-  [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) ... `HateSameNum.py`
 -  [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) ... `SumMatrix.py`
 -  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) ... `Remainer.py`
 -  [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) ... `Lottos.py`
@@ -22,5 +23,11 @@
 -  [[1차]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) ... `SecretMap.py`
 -  [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) ... `Average.py`
 -  [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) ... `HidePhoneNum.py`
+-  [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) ... `SumDigits.py`
 -  [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) ... `EvenOdd.py`
 -  [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) ... `MakeStrangeWord.py`
+-  [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) ... `CollatzConjecture.py`
+-  [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) ... `SquareRoot.py`
+-  [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) ... `RemoveSmallestNum.py`
+-  [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) ... `DescendingSort.py`
+-  [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) ... `SumDivisors.py`
