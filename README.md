@@ -31,3 +31,5 @@
 -  [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) ... `RemoveSmallestNum.py`
 -  [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) ... `DescendingSort.py`
 -  [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) ... `SumDivisors.py`
+-  [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) ... `ClawCrane.py`
+-  [[1차]다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) ... `DartGame.py`
