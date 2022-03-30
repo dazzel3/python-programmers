@@ -12,7 +12,7 @@
 -  [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) ... `DotProduct.py`
 -  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) ... `SweatSuit.py`
 -  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) ... `CanNotFinish.py`
--  [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) ... `KthNum.py`
+-  [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) ... `KthNum.py`
 -  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) ... `MockTest.py`
 -  [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) ... `PinStar.py`
 -  [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) ... `HateSameNum.py`
@@ -33,3 +33,9 @@
 -  [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) ... `SumDivisors.py`
 -  [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) ... `ClawCrane.py`
 -  [[1차]다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) ... `DartGame.py`
+-  [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) ... `NumSpacedByX.py`
+-  [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) ... `TouchKeypad.py`
+-  [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) ... `Pokemon.py`
+-  [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) ... `NumOfDivisors.py`
+-  [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) ... `SumTwoNum.py`
+-  [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) ... `CaesarCipher.py`
