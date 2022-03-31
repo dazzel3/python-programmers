@@ -39,3 +39,10 @@
 -  [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) ... `NumOfDivisors.py`
 -  [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) ... `SumTwoNum.py`
 -  [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) ... `CaesarCipher.py`
+-  [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) ... `ReportResult.py`
+-  [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) ... `FailureRate.py`
+-  [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) ... `ParseInt.py`
+-  [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) ... `Watermelon.py`
+-  [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) ... `FindPrimeNum.py`
+-  [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) ... `FindKim.py`
+-  [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) ... `StringBasic.py`
