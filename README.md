@@ -50,3 +50,9 @@
 -  [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) ... `SortMyWay.py`
 -  [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) ... `DivisibleArray.py`
 -  [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) ... `NumOfPAndY.py`
+-  [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) ... `SumBetweenTwoNum.py`
+-  [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) ... `GetMiddleStr.py`
+-  [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) ... `2016.py`
+-  [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) ... `HarshadNum.py`
+-  [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) ... `FlipNumToFormArray.py`
+-  [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) ... `GCDAndLCM.py`
