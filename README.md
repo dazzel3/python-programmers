@@ -56,3 +56,9 @@
 -  [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) ... `HarshadNum.py`
 -  [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) ... `FlipNumToFormArray.py`
 -  [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) ... `GCDAndLCM.py`
+
+### LEVEL 2
+-  [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) ... `124World.py`
+-  [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) ... `OpenChat.py`
+-  [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) ... `NextBigNum.py`
+-  [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) ... `MinimumValue.py`
