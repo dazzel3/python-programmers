@@ -65,3 +65,6 @@
 -  [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) ... `LCM.py`
 -  [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) ... `FibonacciNum.py`
 -  [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) ... `MatrixMulti.py`
+-  [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) ... `BiggestNum.py`
+-  [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) ... `CorrectParenthesis.py`
+-  [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) ... `JadenCase.py`
