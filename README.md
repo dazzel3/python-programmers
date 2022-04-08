@@ -68,3 +68,6 @@
 -  [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) ... `BiggestNum.py`
 -  [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) ... `CorrectParenthesis.py`
 -  [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) ... `JadenCase.py`
+-  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) ... `Printer.py`
+-  [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) ... `RemoveByPair.py`
+-  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) ... `MakeBigNum.py`
