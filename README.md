@@ -71,3 +71,5 @@
 -  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) ... `Printer.py`
 -  [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) ... `RemoveByPair.py`
 -  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) ... `MakeBigNum.py`
+-  [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) ... `SkillTrees.py`
+-  [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) ... `LifeBoat.py`
