@@ -73,3 +73,6 @@
 -  [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) ... `MakeBigNum.py`
 -  [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) ... `SkillTrees.py`
 -  [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) ... `LifeBoat.py`
+-  [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) ... `FeatureDevelopment.py`
+-  [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) ... `MaximumAndMinimum.py`
+-  [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) ... `JumpAndTeleport.py`
